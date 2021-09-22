@@ -113,6 +113,7 @@ public class LambdaTest {
         System.out.println(collect1);
     }
 
+
     // groupingBy 是能够根据字段进行分组，toMap 是把 List 的数据格式转化成 Map 的格式
     @Test
     public void testGroupingBy(){
